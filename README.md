@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,py,kotlin,c,cpp&perline=5)](https://skillicons.dev)
+
+- Technologies I've ever touched:
+[![Technologies](https://skillicons.dev/icons?i=docker,supabase&perline=5)](https://skillicons.dev)
+
+- [ ] Other things I've touched
